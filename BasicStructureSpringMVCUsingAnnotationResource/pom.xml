@@ -46,6 +46,17 @@
 		</dependency>
 	</dependencies>
 	<build>
+	<plugins>
+			<!-- Update to latest version of java -->
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.1</version>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+				</configuration>
+			</plugin>
+		</plugins>
 		<finalName>BasicStructureSpringMVCUsingAnnotation</finalName>
 	</build>
 </project>
