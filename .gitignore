@@ -19,18 +19,7 @@
 *.tar.gz
 *.rar
 
+**/target/
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-
-/BasicStructureSpringMVCUsingAnnotation/target/
-/BasicStructureSpringMVCUsingAnnotation/JavaTpoint Java/
-/BasicStructureSpringMVCUsingAnnotationWithErrorControlling/target/
-/BasicStructureSpringMVCUsingAnnotationWithErrorControlling/JavaTpoint Java/
-/BasicStructureSpringMVCUsingAnnotationWithJdbcTemplate/target/
-/BasicStructureSpringMVCUsingAnnotationWithJdbcTemplate/JavaTpoint Java/
-/BasicStructureSpringMVCUsingAnnotationWithJdbcTemplateStoreProcedure/target/
-/BasicStructureSpringMVCUsingAnnotationWithJdbcTemplateStoreProcedure/JavaTpoint Java/
-/BasicStructureSpringMVCUsingAnnotationResource/target/
-/BasicStructureSpringMVCUsingAnnotationResource/JavaTpoint Java/
-/BasicStructureSpringMVCUsingAnnotationFileUpload/target/
-/SpringMvcDownloadWithoutXml/target/
